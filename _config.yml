@@ -69,4 +69,6 @@ theme: landscape
 deploy:
   type:
   
-  
+#多说配置：
+duoshuo_shortname: qling
+
