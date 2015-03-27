@@ -2,25 +2,25 @@
 menu:
   Home: /
   Archives: /archives
-rss: 
+#rss: 
 
 # Content
 excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: right
+sidebar: left
 widgets:
 - category
+- recent_posts
 #- tag
 #- tagcloud
-- archive
-- recent_posts
+#- archive
 
 # Miscellaneous
-google_analytics:
+#google_analytics:
 favicon: /favicon.png
-twitter:
-google_plus: https://plus.google.com/+青莲s/
-fb_admins:
-fb_app_id:
+#google_plus: 
+#twitter: 
+#fb_admins:
+#fb_app_id:
