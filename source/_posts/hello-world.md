@@ -1,4 +1,5 @@
 title: Hello World
+tag: =_=
 ---
 
 使用Hexo在GitHub上搭建的博客，完全是闲到无聊的产物。
