@@ -14,6 +14,7 @@ fancybox: false
 sidebar: left
 widgets:
 - category
+- aboutme
 - recent_posts
 #- tag
 #- tagcloud
