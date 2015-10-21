@@ -10,7 +10,7 @@ author: 神楽坂青莲
 author_title: 'Web Developer & Designer'
 avatar: css/images/avatar.png
 location: 'Harbin, China'
-follow: https://github.com/ppoffice/
+follow: https://github.com/qlings
 language: zh_CN
 timezone:
 since: 2000 # The start year showing in your copyright section.
@@ -18,7 +18,7 @@ since: 2000 # The start year showing in your copyright section.
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://qlings.github.io
-root: /hexo-theme-icarus/
+root: /icarus/
 permalink: :year/:title/
 permalink_defaults:
 
