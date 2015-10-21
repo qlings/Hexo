@@ -7,13 +7,13 @@ title: 青莲居
 subtitle:
 description: QLing的个人博客站
 author: 神楽坂青莲
-author_title: 'Web Developer & Designer'
+author_title: '不会卖萌'
 avatar: css/images/avatar.png
-location: 'Harbin, China'
+location: 'ZiBo, China'
 follow: https://github.com/qlings
 language: zh_CN
 timezone:
-since: 2000 # The start year showing in your copyright section.
+since: 2014 # The start year showing in your copyright section.
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
