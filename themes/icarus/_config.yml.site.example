@@ -3,28 +3,28 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 青莲居
+title: Icarus
 subtitle:
-description: QLing的个人博客站
-author: 神楽坂青莲
+description: Hexo theme - Icarus
+author: PPOffice
 author_title: 'Web Developer & Designer'
 avatar: css/images/avatar.png
 location: 'Harbin, China'
 follow: https://github.com/ppoffice/
-language: zh_CN
+language: en
 timezone:
 since: 2000 # The start year showing in your copyright section.
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://qlings.github.io
+url: http://ppoffice.github.io/hexo-theme-icarus
 root: /hexo-theme-icarus/
-permalink: :year/:title/
+permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: C:\Users\QLing\Documents\GitHub\qlings.github.io
+public_dir: public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
