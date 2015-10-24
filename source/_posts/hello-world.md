@@ -1,5 +1,5 @@
 title: Hello World
-date: 2014.10
+date: 2014-10
 tag: =_=
 ---
 
