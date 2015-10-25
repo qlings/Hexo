@@ -8,7 +8,7 @@ subtitle:
 description: QLing的个人博客站
 author: 神楽坂青莲
 author_title: '不会卖萌'
-avatar: css/images/avatar.png
+avatar: css/images/avatar.jpg
 location: 'ZiBo, China'
 follow: https://github.com/qlings
 language: zh_CN
@@ -56,7 +56,7 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: YYYY-MM
 time_format: HH:mm:ss
 
 # Pagination
